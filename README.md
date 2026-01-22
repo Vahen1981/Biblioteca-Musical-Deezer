@@ -1,7 +1,7 @@
-# Proyecto 5 – Aplicación Web con React
+# Biblioteca Musical (basada en la API de deezer)
 
 ## Descripción
-Este proyecto consiste en una aplicación web basada en la API de Deezer, una plataforma de streaming similar a Spotify o YouTube Music. Deezer proporciona una API gratuita para desarrolladores, que ha sido utilizada para construir esta aplicación.
+Este proyecto, con fines académicos, consiste en una aplicación web basada en la API de Deezer, una plataforma de streaming similar a Spotify o YouTube Music. Deezer proporciona una API gratuita para desarrolladores, que ha sido utilizada para construir esta aplicación.
 
 La aplicación está alojada en Render y es accesible desde la siguiente URL:
 [https://project5-tuqa.onrender.com](https://project5-tuqa.onrender.com).
